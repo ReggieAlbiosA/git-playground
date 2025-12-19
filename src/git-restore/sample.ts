@@ -1,3 +1,3 @@
-const sample = "sample";
+const sample = "1";
 
 export {};
