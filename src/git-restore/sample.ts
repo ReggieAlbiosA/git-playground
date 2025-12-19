@@ -1,3 +1,3 @@
-const modifiedSample = "Modified Sample";
+const modifiedSample2 = "Modified Sample2";
 
 export {};
